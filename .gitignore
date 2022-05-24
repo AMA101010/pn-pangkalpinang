@@ -1,0 +1,2 @@
+# ENV will contains any secret to connecting directly witj the server
+.env
